@@ -1,0 +1,11 @@
+venv/shop_api/.idea
+media
+static
+venv
+.env
+env
+../../.env
+**/migrations/*
+!**/migrations/__init__.py
+__pycache__/
+.vscode

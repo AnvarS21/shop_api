@@ -18,3 +18,5 @@ def send_notification_task(user, order_id, price):
         'from@example.com',
         [user],
     )
+
+

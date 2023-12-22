@@ -1,0 +1,25 @@
+# Common
+README.md
+CHANGELOG.md
+docker-compose.yml
+Dockerfile
+
+# JetBrains
+.idea
+
+# git
+.git
+.gitattributes
+.gitignore
+
+static
+media
+venv
+env
+
+# VS Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]

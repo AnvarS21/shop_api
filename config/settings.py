@@ -200,7 +200,7 @@ EMAIL_HOST_USER = de_config('EMAIL_USER')
 EMAIL_HOST_PASSWORD = de_config('EMAIL_PASSWORD')
 
 
-REDIS_HOST = 'localhost'
+REDIS_HOST = 'redis'
 REDIS_PORT = '6379'
 
 CELERY_BROKER_URL = 'redis://' + REDIS_HOST + ':' + REDIS_PORT + '/0'
